@@ -2,7 +2,9 @@
 
 Please note: These instructions are for running the project in VS code. If you are not using VS code, any or all of this project and/or these instructions may not be compatible with your code browser.
 
-
+## Download the data set here
+https://www.kaggle.com/datasets/bhautikmangukiya12/hospital-inpatient-discharges-dataset
+add the data set into the same parent folder as the other porject files
 ## Before running any file, follow these steps:
 
 Ensure python is installed on your computer. If it isn’t, then install it.
