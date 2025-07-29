@@ -30,7 +30,6 @@ import sys
 ## Run files:
 
 Make sure to run all files in the order they are in from top to bottom, when changing order in which you run the files the program may still work properly
-Ignore the archive folder, if you try to run these you must move them from the folder and then ensure the necessary import and installation statements are there. There may not be functionality with these files.
 You can now  change settings and test different things out as you'd like but it's recommended to make copies of the original files and then alter to copies to preserve the original code and ensure you always have working copies
 WARNING: during testing, issues were found when running the file titled "7xg_boost.ipynb" Running this file may crash your computer. Avoiding running this file will not affect other files or any other part of the project. If you do run this file, you should save everything before hand and close all other applications
 
